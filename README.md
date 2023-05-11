@@ -9,6 +9,6 @@
  </p>
  
 </br>
- 
- <h2> My Stack </h2>
-
+<div id='stack' align='center'>
+  <h2> My Stack </h2>
+</div>
