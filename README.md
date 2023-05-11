@@ -10,5 +10,5 @@
  
 </br>
  
- <h2> Tech Skills </h2>
+ <h2> My Stack </h2>
 
