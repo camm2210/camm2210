@@ -5,7 +5,7 @@
 
  <h2> About me </h2>
  
-<p> I'm passionate about coding and web design and recently completed a full stack developer bootcamp and now, I'm eager to take on new projects and gain more experience. I thrive on challenges and value learning from my experiences. When I'm not coding, I enjoy reading, exploring, sports, and music. Whether it's discovering new authors, singers, or hiking in the great outdoors, I'm always eager to learn and explore. I'm also a team player who loves collaborating to achieve goals.
+<p> I'm passionate about coding and web design, I recently completed a full stack developer bootcamp and now, I'm eager to take on new projects and gain more experience. I thrive on challenges and value learning from my experiences. When I'm not coding, I enjoy reading, exploring, sports, and music. Whether it's discovering new authors, singers, or hiking in the great outdoors, I'm always eager to learn and explore. I'm also a team player who loves collaborating to achieve goals.
  </p>
  
 </br>
