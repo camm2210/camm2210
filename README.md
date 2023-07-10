@@ -1,6 +1,6 @@
 <div id='header' align='center'> 
  <h1> Hello World! 👋 This is Camilo 💻 </h1>
-  <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjIyNjEyZDU3ZDUxNDk0Mzg5OTgyOGViYmFlZTcyMWUzYzJkYjI1NyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/2fZt2gpfmUyC7wzpWm/giphy.gif'>
+  <img src='https://www.canva.com/design/DAFoMknz_cQ/364Hyyb0bqOqLmArh6kZHg/edit?utm_content=DAFoMknz_cQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'>
 </div>
 
  <h2> About me </h2>
