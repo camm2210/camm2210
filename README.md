@@ -5,7 +5,11 @@
 
  <h2> About me </h2>
  
-<p> I'm passionate about coding, web design and graphic design, I recently completed a full stack developer bootcamp and now, I'm eager to take on new projects and gain more experience. I thrive on challenges and value learning from my experiences. When I'm not coding, I enjoy reading, exploring, sports, and music. Whether it's discovering new authors, singers, or hiking in the great outdoors, I'm always eager to learn and explore. I'm also a team player who loves collaborating to achieve goals.
+<p> I'm passionate about web design, graphic design, and programming, specializing in user interface design. I recently completed a full-stack development bootcamp, where I acquired skills in various areas. I'm eager to take on new projects and gain more experience. I use React as my primary framework for frontend development, creating efficient and appealing user interfaces. During the bootcamp, I strengthened my skills in React-based projects.
+
+In addition to coding, I enjoy reading, exploring, sports, and music. I'm always eager to learn and explore, and I thrive as a team player who values collaboration to achieve goals.
+
+I'm excited to continue my career in web design and programming, applying my skills in user interface design and utilizing React, while also keeping up with the latest industry trends. Ready to take on new challenges and keep learning with each experience!
  </p>
  
 </br>
