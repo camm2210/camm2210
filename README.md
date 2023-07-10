@@ -1,5 +1,5 @@
 <div id='header' align='center'> 
- <h1> Hello World! 👋 This is Camilo 💻 </h1>
+ <h1> Hello World!  This is Camilo  </h1>
   <img src='https://github.com/camm2210/camm2210/blob/main/Add%20a%20heading%20(1).png', alt='banner'>
 </div>
 
