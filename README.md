@@ -5,11 +5,15 @@
 
  <h2> About me </h2>
  
-<p> I'm passionate about web design, graphic design, and programming, specializing in user interface design. I recently completed a full-stack development bootcamp, where I acquired skills in various areas. I'm eager to take on new projects and gain more experience. I use React as my primary framework for frontend development, creating efficient and appealing user interfaces. During the bootcamp, I strengthened my skills in React-based projects.
+<p> Trailblazer, Melody Architect, and Full Stack Developer | Co-Founder and COO at Helpme! App
 
-In addition to coding, I enjoy reading, exploring, sports, and music. I'm always eager to learn and explore, and I thrive as a team player who values collaboration to achieve goals.
+Immersed in the captivating world of web development for over a year, my journey extends beyond conventional boundaries. As a co-founder and COO at Helpme! App, I lead teams with a passionate vision, orchestrating strategies that transcend the screen.
 
-I'm excited to continue my career in web design and programming, applying my skills in user interface design and utilizing React, while also keeping up with the latest industry trends. Ready to take on new challenges and keep learning with each experience!
+In moments of inspiration, I dive into music, exploring new genres and giving life to original compositions. Nature is my sanctuary, where I find balance ascending mountains and exploring trails to renew my energy.
+
+From the heart of Helpme! App, I've propelled our innovative product, solidifying key partnerships and overseeing technological operations with a warm and human approach.
+
+As a full stack developer, my passion translates into finding creative and efficient solutions for technological challenges. If you're seeking a passionate and results-oriented visionary, contact me, and let's collaborate on projects that ignite the spark of innovation!
  </p>
  
 </br>
@@ -47,4 +51,5 @@ I'm excited to continue my career in web design and programming, applying my ski
   
 - 💻 &nbsp;
  ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
  ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
